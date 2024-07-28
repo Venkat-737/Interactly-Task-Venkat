@@ -1,0 +1,11 @@
+pandas
+numpy
+torch
+transformers
+sentence-transformers
+faiss-cpu
+pymongo
+python-dotenv
+flask
+flask-cors
+pickle

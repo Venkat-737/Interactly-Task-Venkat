@@ -1,0 +1,6 @@
+.env
+Resume.csv
+results
+fine_tuned_model
+embeddings.pkl
+metadata.pkl
